@@ -1,0 +1,224 @@
+[
+  {
+    "subject": "DSA",
+    "title": "Arrays",
+    "notes": "Fundamental data structure for storing elements of the same type. Practice problems involving traversal, searching, and manipulation.",
+    "resources": "https://leetcode.com/tag/array/"
+  },
+  {
+    "subject": "DSA",
+    "title": "Strings",
+    "notes": "String manipulation, pattern matching, and algorithms like KMP, Rabin-Karp.",
+    "resources": "https://leetcode.com/tag/string/"
+  },
+  {
+    "subject": "DSA",
+    "title": "Linked Lists",
+    "notes": "Singly and doubly linked lists, cycle detection, reversal, and merging.",
+    "resources": "https://leetcode.com/tag/linked-list/"
+  },
+  {
+    "subject": "DSA",
+    "title": "Stacks",
+    "notes": "LIFO data structure, applications in expression evaluation, parentheses matching.",
+    "resources": "https://leetcode.com/tag/stack/"
+  },
+  {
+    "subject": "DSA",
+    "title": "Queues",
+    "notes": "FIFO data structure, priority queues, and deque operations.",
+    "resources": "https://leetcode.com/tag/queue/"
+  },
+  {
+    "subject": "DSA",
+    "title": "Binary Trees",
+    "notes": "Tree traversals (inorder, preorder, postorder), height, diameter, and path problems.",
+    "resources": "https://leetcode.com/tag/tree/"
+  },
+  {
+    "subject": "DSA",
+    "title": "Binary Search Trees",
+    "notes": "BST operations, validation, lowest common ancestor, and inorder successor.",
+    "resources": "https://leetcode.com/tag/binary-search-tree/"
+  },
+  {
+    "subject": "DSA",
+    "title": "Graphs",
+    "notes": "Graph representations, BFS, DFS, shortest paths, and topological sort.",
+    "resources": "https://leetcode.com/tag/graph/"
+  },
+  {
+    "subject": "DSA",
+    "title": "Dynamic Programming",
+    "notes": "Memoization, tabulation, knapsack, longest common subsequence, and matrix chain multiplication.",
+    "resources": "https://leetcode.com/tag/dynamic-programming/"
+  },
+  {
+    "subject": "DSA",
+    "title": "Greedy Algorithms",
+    "notes": "Activity selection, Huffman coding, and fractional knapsack problems.",
+    "resources": "https://www.geeksforgeeks.org/greedy-algorithms/"
+  },
+  {
+    "subject": "DSA",
+    "title": "Backtracking",
+    "notes": "N-Queens, Sudoku solver, and subset generation problems.",
+    "resources": "https://leetcode.com/tag/backtracking/"
+  },
+  {
+    "subject": "DSA",
+    "title": "Sorting Algorithms",
+    "notes": "Quick sort, merge sort, heap sort, and their time/space complexities.",
+    "resources": "https://www.geeksforgeeks.org/sorting-algorithms/"
+  },
+  {
+    "subject": "DSA",
+    "title": "Searching Algorithms",
+    "notes": "Binary search, linear search, and interpolation search.",
+    "resources": "https://www.geeksforgeeks.org/searching-algorithms/"
+  },
+  {
+    "subject": "DSA",
+    "title": "Hashing",
+    "notes": "Hash tables, collision handling, and applications in caching.",
+    "resources": "https://leetcode.com/tag/hash-table/"
+  },
+  {
+    "subject": "DSA",
+    "title": "Bit Manipulation",
+    "notes": "Bit operations, counting set bits, and power of two checks.",
+    "resources": "https://leetcode.com/tag/bit-manipulation/"
+  },
+  {
+    "subject": "DSA",
+    "title": "Recursion",
+    "notes": "Recursive thinking, base cases, and tail recursion.",
+    "resources": "https://www.geeksforgeeks.org/recursion/"
+  },
+  {
+    "subject": "DSA",
+    "title": "Divide and Conquer",
+    "notes": "Merge sort, quick sort, and binary search implementations.",
+    "resources": "https://www.geeksforgeeks.org/divide-and-conquer-algorithm-introduction/"
+  },
+  {
+    "subject": "DSA",
+    "title": "Two Pointers",
+    "notes": "Array problems with two pointers, sliding window technique.",
+    "resources": "https://leetcode.com/tag/two-pointers/"
+  },
+  {
+    "subject": "DSA",
+    "title": "Sliding Window",
+    "notes": "Maximum sum subarray, longest substring without repeating characters.",
+    "resources": "https://leetcode.com/tag/sliding-window/"
+  },
+  {
+    "subject": "DSA",
+    "title": "Heaps",
+    "notes": "Priority queues, heap sort, and k-largest elements problems.",
+    "resources": "https://leetcode.com/tag/heap-priority-queue/"
+  },
+  {
+    "subject": "DSA",
+    "title": "Tries",
+    "notes": "Prefix trees for string operations and autocomplete.",
+    "resources": "https://leetcode.com/tag/trie/"
+  },
+  {
+    "subject": "DBMS",
+    "title": "Relational Databases",
+    "notes": "ER modeling, normalization, keys, and schema design for relational database systems.",
+    "resources": "https://www.geeksforgeeks.org/er-model/"
+  },
+  {
+    "subject": "DBMS",
+    "title": "SQL and Querying",
+    "notes": "Select, join, aggregate, subquery, and set operations to retrieve and manipulate relational data.",
+    "resources": "https://www.geeksforgeeks.org/sql-tutorial/"
+  },
+  {
+    "subject": "DBMS",
+    "title": "Transactions and Indexing",
+    "notes": "ACID properties, locking, isolation levels, indexing strategies, and query optimization.",
+    "resources": "https://www.geeksforgeeks.org/transactions-in-dbms/"
+  },
+  {
+    "subject": "OS",
+    "title": "Process and Thread Management",
+    "notes": "Process life cycle, thread models, CPU scheduling, context switching, and multitasking.",
+    "resources": "https://www.geeksforgeeks.org/os-process-scheduling/"
+  },
+  {
+    "subject": "OS",
+    "title": "Memory Management",
+    "notes": "Virtual memory, paging, segmentation, allocation strategies, and page replacement algorithms.",
+    "resources": "https://www.geeksforgeeks.org/virtual-memory-in-operating-system/"
+  },
+  {
+    "subject": "OS",
+    "title": "Synchronization and File Systems",
+    "notes": "Concurrency control, semaphores, deadlocks, file organization, and storage management.",
+    "resources": "https://www.geeksforgeeks.org/deadlock-in-operating-system/"
+  },
+  {
+    "subject": "DBMS",
+    "title": "Normalization and Schema Design",
+    "notes": "Normal forms, redundancy elimination, and designing efficient, consistent relational schemas.",
+    "resources": "https://www.geeksforgeeks.org/normalization-in-dbms/"
+  },
+  {
+    "subject": "DBMS",
+    "title": "NoSQL and NewSQL",
+    "notes": "Key-value, document, columnar, and graph databases plus modern scalable NewSQL systems.",
+    "resources": "https://www.geeksforgeeks.org/difference-between-sql-and-nosql/"
+  },
+  {
+    "subject": "DBMS",
+    "title": "Backup, Recovery, and Replication",
+    "notes": "Recovery techniques, log-based recovery, checkpoints, backup strategies, and database replication.",
+    "resources": "https://www.geeksforgeeks.org/database-backup-and-recovery/"
+  },
+  {
+    "subject": "DBMS",
+    "title": "Distributed Databases",
+    "notes": "Partitioning, replication, CAP theorem, consistency models, and distributed query processing.",
+    "resources": "https://www.geeksforgeeks.org/distributed-database/"
+  },
+  {
+    "subject": "DBMS",
+    "title": "Database Security",
+    "notes": "Authentication, authorization, encryption, SQL injection prevention, and auditing.",
+    "resources": "https://www.geeksforgeeks.org/database-security/"
+  },
+  {
+    "subject": "OS",
+    "title": "CPU Scheduling",
+    "notes": "Scheduling algorithms, time-sharing, priority scheduling, and scheduler performance metrics.",
+    "resources": "https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/"
+  },
+  {
+    "subject": "OS",
+    "title": "Deadlocks and Concurrency",
+    "notes": "Deadlock detection, prevention, avoidance, and concurrency control mechanisms.",
+    "resources": "https://www.geeksforgeeks.org/deadlock-in-operating-system/"
+  },
+  {
+    "subject": "OS",
+    "title": "Virtualization and Containers",
+    "notes": "Hypervisors, virtual machines, containerization, and resource isolation techniques.",
+    "resources": "https://www.geeksforgeeks.org/introduction-to-virtualization/"
+  },
+  {
+    "subject": "OS",
+    "title": "I/O Systems and Device Management",
+    "notes": "I/O hardware, buffering, interrupts, and device driver concepts.",
+    "resources": "https://www.geeksforgeeks.org/input-output-systems-in-operating-system/"
+  },
+  {
+    "subject": "OS",
+    "title": "Operating System Architecture",
+    "notes": "Monolithic, microkernel, layered, and hybrid architectures plus system services.",
+    "resources": "https://www.geeksforgeeks.org/operating-system-architecture/"
+  }
+]
