@@ -71,14 +71,6 @@ Add topic:
 }
 ```
 
-## Viva explanation
-
-- **Frontend**: Built with React and Bootstrap. Uses `react-router-dom` for routes, `axios` for API calls, and localStorage for JWT storage.
-- **Backend**: Uses Express and Mongoose. JWT middleware protects topic routes and ensures each user only sees their own data.
-- **Auth flow**: User registers or logs in, receives JWT, stores it in `localStorage`, and the app sends it in `Authorization` headers.
-- **Analytics**: The dashboard computes completion percentage per subject and overall progress dynamically from the user topics.
-- **UI**: Cards display subject progress, tables manage topic lists, and forms allow adding and filtering topics.
-
 ## Notes
 
 - Use `.env` to configure `MONGO_URI`, `JWT_SECRET`, and `PORT`.
